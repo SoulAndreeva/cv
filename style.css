@@ -222,3 +222,72 @@ a {
 .languages_span {
    color: #000000;
 }
+
+.sidebar {
+    background-color: #1E2939;
+    padding-top: 40px;
+    width: 370px;
+}
+
+.photo {
+    width: 370px;
+    margin-bottom: 50px;
+}
+
+.sidebar_title {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 8px;
+}
+
+.contacts,
+.tech_skills,
+.soft_skills {
+    margin-left: 40px;
+}
+
+.contact_type {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color:#FFFFFF;
+    margin-right: 10px;
+}
+
+.contact_link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #565e6a;
+}
+
+.contacts {
+    margin-bottom: 50px;
+}
+
+.skills_list {
+    color: #FFFFFF;
+    padding: 0;
+    margin-left: 20px;
+}
+
+.tech_skills {
+    margin-bottom: 44px;
+}
+
+.skills_span {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.skills_li {
+    color: #FB6D3A;
+}
