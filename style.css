@@ -291,3 +291,25 @@ a {
 .skills_li {
     color: #FB6D3A;
 }
+
+.footer {
+   padding: 20px 0;
+}
+
+.footer_content {
+   display: flex;
+   align-items: baseline;
+   justify-content: space-between;
+
+
+}
+.footer_date {
+   color: #1E2939;
+}
+.footer_github {
+   color: #1E2939;
+}
+
+.footer_logo-img {
+   width: 90px;
+}
