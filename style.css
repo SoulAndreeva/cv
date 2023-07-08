@@ -34,3 +34,29 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	font-size: 20px;
 	color: red;
 }
+
+
+body {
+   font-family: 'Montserrat', sans-serif;
+   background-color: #E5E5E5;
+}
+
+.container {
+   width: 1200px;
+   margin: 0 auto;
+}
+
+a {
+   color: #E5E5E5;;
+}
+
+.header {
+   background-color: #1E2939;
+   padding: 20px 0;
+}
+
+.nav-list {
+   display: flex;
+   gap: 40px;
+   justify-content: end;
+}
