@@ -1,5 +1,5 @@
 # rsschool-cv
 
-https://dmasbs.github.io/rsschool-cv/cv
+https://soulandreeva.github.io/cv/
 
 
